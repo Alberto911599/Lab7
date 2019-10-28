@@ -1,0 +1,25 @@
+{
+  "name": "blog-post",
+  "version": "1.0.0",
+  "description": "laboratory 7",
+  "main": "server-blog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alberto911599/Lab7.git"
+  },
+  "author": "Alberto Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alberto911599/Lab7/issues"
+  },
+  "homepage": "https://github.com/Alberto911599/Lab7#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4",
+    "uuid": "^3.3.3"
+  }
+}
