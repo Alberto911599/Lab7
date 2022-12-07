@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Alberto911599/Lab7#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.4",
     "uuid": "^3.3.3"
